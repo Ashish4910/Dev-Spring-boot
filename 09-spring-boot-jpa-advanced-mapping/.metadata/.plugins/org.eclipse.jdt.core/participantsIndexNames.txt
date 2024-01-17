@@ -1,0 +1,11 @@
+INDEX VERSION 1.132
+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\183058609.index
+\Web_Customer_tracker\src
+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
+\spring-mvc-demo\src
+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2378629067.index
+\Web_Customer_tracker\src
+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1112063778.index
+\Web_Customer_tracker\src
+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2532466247.index
+\Web_Customer_tracker\src

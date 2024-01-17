@@ -1,0 +1,11 @@
+127.0.0.1 - - [20/Oct/2023:11:04:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:04:51 +0530] "GET /Web_Customer_tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:04:53 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5453
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:04:53 +0530] "GET /Web_Customer_tracker/resource/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:36 +0530] "GET /Web_Customer_tracker/customer/delete?customerId=4 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:36 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5126
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:39 +0530] "GET /Web_Customer_tracker/customer/showFormForUpdate?customerId=5 HTTP/1.1" 200 1310
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:39 +0530] "GET /Web_Customer_tracker/resource/css/add-customer-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:47 +0530] "POST /Web_Customer_tracker/customer/saveCustomer HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:05:47 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5129
+0:0:0:0:0:0:0:1 - - [20/Oct/2023:11:09:22 +0530] "GET /Web_Customer_tracker/customer/showFormForUpdate?customerId=3 HTTP/1.1" 200 1308

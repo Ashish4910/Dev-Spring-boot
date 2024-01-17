@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\Web_Customer_tracker\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

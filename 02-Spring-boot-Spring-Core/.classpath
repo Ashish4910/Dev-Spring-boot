@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-Constructor-injection/src/main/java"/>
+	<classpathentry kind="src" path="01-Constructor-injection/src/test/java"/>
+	<classpathentry kind="src" path="02-setter injection/src/main/java"/>
+	<classpathentry kind="src" path="02-setter injection/src/test/java"/>
+	<classpathentry kind="src" path="03-Qualifier/src/main/java"/>
+	<classpathentry kind="src" path="03-Qualifier/src/test/java"/>
+	<classpathentry kind="src" path="04-Primary/src/main/java"/>
+	<classpathentry kind="src" path="04-Primary/src/test/java"/>
+	<classpathentry kind="src" path="05-lazy-initilizer/src/main/java"/>
+	<classpathentry kind="src" path="05-lazy-initilizer/src/test/java"/>
+	<classpathentry kind="src" path="06-Bean-Scope/src/main/java"/>
+	<classpathentry kind="src" path="06-Bean-Scope/src/test/java"/>
+	<classpathentry kind="src" path="07-bean-lifefcycle-method/src/main/java"/>
+	<classpathentry kind="src" path="07-bean-lifefcycle-method/src/test/java"/>
+	<classpathentry kind="src" path="08-bean-instead-of-component/src/main/java"/>
+	<classpathentry kind="src" path="08-bean-instead-of-component/src/test/java"/>
+	<classpathentry kind="lib" path="01-Constructor-injection/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="02-setter injection/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="03-Qualifier/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="04-Primary/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="05-lazy-initilizer/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="06-Bean-Scope/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="07-bean-lifefcycle-method/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="08-bean-instead-of-component/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="01-Constructor-injection/target/classes"/>
+</classpath>

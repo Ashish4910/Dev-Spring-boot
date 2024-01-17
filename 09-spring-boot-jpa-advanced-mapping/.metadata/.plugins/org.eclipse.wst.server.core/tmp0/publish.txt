@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sat Oct 21 10:03:11 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\dev-spring-boot\\09-spring-boot-jpa-advanced-mapping\\Web_Customer_tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.BUILD-SNAPSHOT.jar=WEB-INF/lib/spring-web-5.0.2.BUILD-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\dev-spring-boot\\09-spring-boot-jpa-advanced-mapping\\Web_Customer_tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.BUILD-SNAPSHOT-sources.jar=WEB-INF/lib/spring-web-5.0.2.BUILD-SNAPSHOT-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\dev-spring-boot\\09-spring-boot-jpa-advanced-mapping\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.BUILD-SNAPSHOT-sources.jar=WEB-INF/lib/spring-web-5.0.2.BUILD-SNAPSHOT-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\dev-spring-boot\\09-spring-boot-jpa-advanced-mapping\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.0.2.BUILD-SNAPSHOT.jar=WEB-INF/lib/spring-web-5.0.2.BUILD-SNAPSHOT.jar

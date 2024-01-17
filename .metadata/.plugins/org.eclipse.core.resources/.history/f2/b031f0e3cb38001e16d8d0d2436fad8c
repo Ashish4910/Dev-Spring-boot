@@ -1,0 +1,5 @@
+package com.SpringProject.spring.core.demo;
+
+public class coach{
+	String getDailyworkout();
+}

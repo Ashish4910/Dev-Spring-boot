@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <title>Employee Directory</title>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h3>Employee Directory</h3>
+        <hr>
+        <a href="/employees/add" class="btn btn-primary btn-sm mb-3">Add Employee</a>
+
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Email</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>John</td>
+                    <td>Doe</td>
+                    <td>johndoe@example.com</td>
+                    <td>
+                        <a href="/employees/edit/1" class="btn btn-sm btn-info">Update</a>
+                        <a href="/employees/delete/1" class="btn btn-sm btn-danger" onclick="if (!(confirm('Are you sure you want to delete this employee ?'))) return false">Delete</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Jane</td>
+                    <td>Smith</td>
+                    <td>janesmith@example.com</td>
+                    <td>
+                        <a href="/employees/edit/2" class="btn btn-sm btn-info">Update</a>
+                        <a href="/employees/delete/2" class="btn btn-sm btn-danger" onclick="if (!(confirm('Are you sure you want to delete this employee ?'))) return false">Delete</a>
+                    </td>
+                </tr>
+                <!-- Add more rows for additional employees -->
+            </tbody>
+        </table>
+
+    </div>
+
+</body>
+</html>

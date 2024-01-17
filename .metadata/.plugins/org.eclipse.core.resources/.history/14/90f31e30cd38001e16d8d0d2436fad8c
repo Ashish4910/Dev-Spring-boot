@@ -1,0 +1,10 @@
+package com.SpringProject.spring.core.demo;
+
+public class DemoController {
+
+private String coach;
+
+public String DemoController( coach mycoach) {
+	coach = mycoach
+}
+}

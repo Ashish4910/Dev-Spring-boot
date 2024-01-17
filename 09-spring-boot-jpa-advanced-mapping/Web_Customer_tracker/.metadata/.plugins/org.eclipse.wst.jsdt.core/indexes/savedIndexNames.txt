@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\Web_Customer_tracker\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

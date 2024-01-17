@@ -1,0 +1,9 @@
+package com.SpringProject.spring.core.demo;
+
+public class DemoController {
+	public static void main(String[] args) {
+		coach coach = new Cricket();
+		String workout = coach.getDailyWorkout();
+		System.out.println("Daily Workout: " + workout);
+	}
+}

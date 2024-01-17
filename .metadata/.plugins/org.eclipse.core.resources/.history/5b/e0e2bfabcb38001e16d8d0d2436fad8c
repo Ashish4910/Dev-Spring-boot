@@ -1,0 +1,8 @@
+package com.SpringProject.spring.core.demo;
+
+public class Cricket implements Coach {
+    @Override
+    public String getDailyWorkout() {
+        return "Practice 15 pages a day";
+    }
+}

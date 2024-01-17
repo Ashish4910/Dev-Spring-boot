@@ -1,0 +1,15 @@
+127.0.0.1 - - [18/Oct/2023:15:54:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:37 +0530] "GET /Web_Customer_tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:39 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5453
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:39 +0530] "GET /Web_Customer_tracker/resource/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:42 +0530] "GET /Web_Customer_tracker/customer/showFormForUpdate?customerId=14 HTTP/1.1" 200 1322
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:42 +0530] "GET /Web_Customer_tracker/resource/css/add-customer-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:47 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5453
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:54:50 +0530] "GET /Web_Customer_tracker/customer/showFormForUpdate?customerId=5 HTTP/1.1" 200 1310
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:55:16 +0530] "GET /Web_Customer_tracker/customer/list HTTP/1.1" 200 5453
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:15:55:23 +0530] "GET /Web_Customer_tracker/customer HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:16:50:37 +0530] "GET /Spring_crud_jsp/login HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:16:50:37 +0530] "GET /Spring_crud_jsp/login HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:16:50:40 +0530] "GET /Spring_crud_jsp/login HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:16:50:40 +0530] "GET /Spring_crud_jsp/login HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [18/Oct/2023:16:50:41 +0530] "GET /Spring_crud_jsp/resource/style.css HTTP/1.1" 404 793

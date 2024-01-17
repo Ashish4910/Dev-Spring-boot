@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview"/>
+			<item value="C:\dev-spring-boot\07-spring-boot-spring-mvc-crud"/>
+			<item value="C:\dev-spring-boot\09-spring-boot-jpa-advanced-mapping\Web_Customer_tracker"/>
+			<item value="C:\dev-spring-boot\02-Spring-boot-Spring-Core"/>
+			<item value="C:\dev-spring-boot\02-Spring-boot-Spring-Core\01-Constructor-injection"/>
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview\03-actuator"/>
+			<item value="C:\dev-spring-boot"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Ashish  CURD"/>
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview\05-properties-demo"/>
+			<item value="C:\dev-spring-boot\02-Spring-boot-Spring-Core"/>
+			<item value="C:\dev-spring-boot\02-Spring-boot-Spring-Core\02-Setter-injection"/>
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview\04-actuator - security"/>
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview\03-actuator"/>
+			<item value="C:\dev-spring-boot\01-Spring-demo-overview\02-dev-tools"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

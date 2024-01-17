@@ -1,0 +1,21 @@
+package com.SpringProject.spring.core.demo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DemoController<coach> {
+
+	private coach mycoach;
+
+	@Autowired
+	public DemoController(coach theCoach) {
+		mycoach = theCoach;
+	}
+
+	@GetMapping("/dailyworkout")
+	public String getDailyWorkout() {
+		return ((Object) mycoach).getDailyWorkout();
+	}
+}
